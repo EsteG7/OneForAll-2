@@ -1,5 +1,5 @@
 # OneForAll
-Salut les mecs aujourd'hui moi [wez] & Wassim [iroo] on leak OneForAll
+Salut les mecs aujourd'hui moi [wez] & Wassim [iroo] & Irox on leak OneForAll
 
 
 Bye OneFor All 😞
