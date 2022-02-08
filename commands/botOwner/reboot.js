@@ -1,4 +1,4 @@
-require('dotenv').config()
+require('dotenv').config();
 const Command = require('../../structures/Handler/Command');
 const { Logger } = require('advanced-command-handler')
 const Discord = require('discord.js')
