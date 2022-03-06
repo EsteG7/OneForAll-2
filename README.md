@@ -1,10 +1,7 @@
 # OneForAll
-Salut les mecs aujourd'hui moi [wez] & Wassim [iroo] & Irox on leak OneForAll
-
-
-Bye OneFor All 😞
-
-⚠️ **Besoin d'aide ? Rejoignez :** https://discord.gg/DhHNhND3WP
+Salut les mecs aujourd'hui moi & Irox on leak OneForAll
+---
+**Besoin d'aide ? Rejoignez :** https://discord.gg/ePXdjgFU
 
 
 À METTRE DANS LE FICHIER CONFIG.JSON
@@ -17,4 +14,3 @@ PREFIX = Le préfix
 OWNERS = Les owners du bot
 [...]
 ```
-leaked 2021 😞😞
