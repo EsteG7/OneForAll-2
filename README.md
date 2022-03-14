@@ -1,10 +1,10 @@
 # OneForAll
-Salut les mecs aujourd'hui moi & Irox on leak OneForAll
----
+Wez & Wassim & Irox on leak OneForAll
+
 **Besoin d'aide ? Rejoignez :** https://discord.gg/ePXdjgFU
 
-
-À METTRE DANS LE FICHIER CONFIG.JSON
+---
+À mettre dans le config.json
 
 ```
 TOKEN = Le token de votre bot 
