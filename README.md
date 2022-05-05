@@ -1,16 +1,15 @@
-# OneForAll
-Wez & Wassim & Irox on leak OneForAll
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=38&color=F7F7F7&center=true&lines=One+For+All">
+</p>
 
-**Besoin d'aide ? Rejoignez :** https://discord.gg/ePXdjgFU
 
 ---
-À mettre dans le config.json
+À mettre dans le **config.json**
 
+```py
+1. TOKEN = "Le token de votre bot"
+2. PREFIX = "Le préfix"
+3. OWNERS = "Les owners du bot"
 ```
-TOKEN = Le token de votre bot 
+---
 
-PREFIX = Le préfix 
-
-OWNERS = Les owners du bot
-[...]
-```
